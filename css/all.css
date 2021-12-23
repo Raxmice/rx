@@ -1,0 +1,44 @@
+.name{
+  margin: 0;
+  font-family: Corinthia;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  color: #4ab19a;
+}
+.name-div{
+  z-index:3;
+  text-align:center;
+  position:relative;
+  top:65px;
+}
+.hii-section{
+  padding:100px 30%;
+  text-align:center;
+}
+.footer{
+  padding:20px 10%;
+  text-align:center;
+  background-color:#e0ebe8;
+}
+.note{
+  position:relative;
+  top:36.67%;
+  float:left;
+}
+.container{
+  padding:0 10% 50px;
+}
+.hii-more{
+  padding:10px 20%;
+  text-align:center;
+}
+.map{
+  width:370px;
+  height:306px;
+  border-radius: 5px;
+}
+.follow-note{
+  padding: 30px 30% 0;
+  text-align:center;
+}
