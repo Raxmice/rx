@@ -1,6 +1,5 @@
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
-  body{ background-color:#d94646;}
   /*header*/
   .logo{
     width:40px;
